@@ -85,11 +85,13 @@
 <!--<br><br>-->
 
 <!--<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">-->
+<div style="display: flex; justify-content: center; align-items: center">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
 Connect with me on 
-<a href="https://www.linkedin.com/in/ahmed-hassan-535767224/" target="blank">LinkedIn<</a>
+<a href="https://www.linkedin.com/in/ahmed-hassan-535767224/" target="blank">LinkedIn</a>
 </p>
+</div>
 
 <!--<br>-->
 <!--<p align="right" > Created with 🧡 by <a href="https://umer-portfoliohub.netlify.app">Umer</a></p>-->
