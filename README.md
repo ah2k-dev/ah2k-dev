@@ -35,19 +35,19 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **AI** and **ML**
 
-- 👨‍💻 All of my projects are available at [https://umer-portfoliohub.netlify.app/](https://umer-portfoliohub.netlify.app/)
+- 👨‍💻 For detailed information, visit my <a href="https://ah2k-portfolio.web.app">Portfolio</a>
 
-- 💬 Ask me about **React, Next, NodeJS, Nest and React Native**
+- 💬 Ask me about **React, React-native, NextJS, NodeJS, ExpressJS, NestJS, Wix, AWS(EC2, Lambda, S3, Route53, Amplify), BitBucket**
 
-- 📫 How to reach me **umermemon4648@gmail.com**
+- 📫 How to reach me **ah2k.dev@gmail.com**
 
 - ⚡ Fun fact **Code whisperer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/m-umer-memon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-umer-memon/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-hassan-535767224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-hassan-535767224/" height="30" width="40" /></a>
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
