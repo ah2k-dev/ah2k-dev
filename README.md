@@ -15,27 +15,12 @@
 
 </p>
 
-<div align="center" style="background-color: red;">
-  <div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 100px; margin-bottom: 100px;" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 100px; margin-bottom: 100px;" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 100px; margin-bottom: 100px;" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 100px;" /></div>
-  <div align="center">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 100px; margin-bottom: 100px;" />
-    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 100px; margin-bottom: 100px;" />
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 100px; margin-bottom: 100px;" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 100px;" /></div>
-    <div align="center">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 100px; margin-bottom: 0px;" />
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 100px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 100px; margin-bottom: 0px;" />
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div>
-</div>
 
-<br>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🌱 I’m currently learning **AI** and **ML**
+- 🌱 I’m currently learning **AI** and **ML** with Python
 
 - 👨‍💻 For detailed information, visit my <a href="https://ah2k-portfolio.web.app">Portfolio</a>
 
@@ -57,28 +42,28 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,electron,nextjs,redux,tailwind,materialui" />
   </a>
 </p>
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" /> 
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,py,flask,django,tensorflow" /> 
   </a>
 </p>
 
-<!--- Database-->
-<!--<p align="left">-->
-<!--  <a href="https://skillicons.dev">-->
-<!--    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />-->
-<!--  </a>-->
-<!--</p>-->
+- Database
+<p align="left">
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,graphql" />
+</a>
+</p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,yarn,npm,docker,kubernetes,aws,jenkins,vscode,linux" />
   </a>
 </p>
 
