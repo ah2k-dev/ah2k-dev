@@ -19,12 +19,12 @@
 
 - 🌱 I’m currently learning **AI** and **ML** with Python
 
-- 👨‍💻 For detailed information, visit my <a href="https://ah2k-portfolio.web.app">Portfolio</a>
+- 👨‍💻 For detailed information, visit my <a href="https://ah2k.dev">Portfolio</a>
 
 - 💬 Ask me about **React, React-native, NextJS, NodeJS, ExpressJS, NestJS, Wix, AWS(EC2, Lambda, S3, Route53, Amplify), BitBucket**
 
 
-- 📫 How to reach me <a mailto="ah2k.dev@gmail.com" target="blank">Mail</a>, <a href="https://www.linkedin.com/in/ahmed-hassan-535767224/" target="blank">LinkedIn</a>
+- 📫 How to reach me <a mailto="contact@ah2k.dev" target="blank">Mail</a>, <a href="https://www.linkedin.com/in/ahmed-hassan-535767224/" target="blank">LinkedIn</a>
 
 - ⚡ Fun fact **Code whisperer**
 
