@@ -24,7 +24,7 @@
 - 💬 Ask me about **React, React-native, NextJS, NodeJS, ExpressJS, NestJS, Wix, AWS(EC2, Lambda, S3, Route53, Amplify), BitBucket**
 
 
-- 📫 How to reach me <a mailto="contact@ah2k.dev" target="blank">Mail</a>, <a href="https://www.linkedin.com/in/ahmed-hassan-535767224/" target="blank">LinkedIn</a>
+- 📫 How to reach me <a href="mailto:contact@ah2k.dev">Mail</a>, <a href="https://www.linkedin.com/in/ahmed-hassan-535767224/" target="blank">LinkedIn</a>
 
 - ⚡ Fun fact **Code whisperer**
 
